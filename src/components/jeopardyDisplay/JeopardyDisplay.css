@@ -1,0 +1,19 @@
+.JeopardyDisplay {
+    border: 2px solid black;
+    max-width: 300px;
+}
+
+.JeopardyDisplay h1 {
+    margin: 0px;
+    text-decoration: underline;
+    font-variant: small-caps;
+}
+
+.JeopardyDisplay h2 {
+    margin: 0px;
+    border-bottom: 2px solid black;
+}
+
+.JeopardyDisplay p {
+    margin: 5px;
+}
